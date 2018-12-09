@@ -1,3 +1,3 @@
 # Event Calendar App
 
-Download as ZIP file, extrat, and then run in Android Studio.
+Download as ZIP file, extract, and then run in Android Studio.
